@@ -1,0 +1,15 @@
+Steps to be followed:
+
+-> Create a repository named as <your_name>_Hacktober2022.
+-> Don't create an empty repository, add any file to it by means of uploading or create one through github add file option.
+-> Use the tags 'hacktober' and 'hacktober2022' in the repo description.
+-> Call any 4-5 of your friends to merge and accept atleast 4 pull requests(PR) on this repository.
+-> Wait for the Hacktober Team to verify your PRs, you can check your accepted PRs on the website ' hacktoberfest.com '.
+-> Wait for the Hacktober Team to reach out to you for your T-shirt size.
+
+
+
+If you want to really contribute to OpenSource through Hacktober:
+-> Go to Github search and search for hacktoberfest2022 tags and choose any issues published by organisations such as Docker, Appwrite, Digital Ocean etc.
+-> Go through the issues and docs provided and PR the solutions from your side and wait for them accepting your PR.
+ Happy Hacktober :)
